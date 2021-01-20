@@ -1,0 +1,9 @@
+{
+  "name": "@gkdp/prettier-config",
+  "version": "1.0.0",
+  "description": "My personal Prettier config",
+  "main": "index.json",
+  "repository": "git@github.com:gkdp/prettier-config.git",
+  "author": "Jurre de Jongh <jurre@solestium.nl>",
+  "license": "MIT"
+}
